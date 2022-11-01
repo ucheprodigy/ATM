@@ -138,8 +138,6 @@ function Enquiry(){
     More();
 }
 
-// The end of ATM project
-
 //------------------------------------------------------------------------------------------
 // Transfer block...
 function Transfer(){
